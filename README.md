@@ -34,7 +34,7 @@ Follow these steps to install and run **LinuxBasics**:
 
   1 Run terminal                                                     
 
-  2 git clone https://github.com/SardorShoakbarov/LinuxBasics.git    
+  2 git clone https://github.com/TheDeepOpc/LinuxBasics.git    
 
   3 cd LinuxBasics                                                   
 
